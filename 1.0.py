@@ -24,6 +24,3 @@ def Binary():
         printCounter-=1
         if varNum>var:
             return
-        
-Binary()
-
